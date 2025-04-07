@@ -1,0 +1,2 @@
+# create_srt_from_media
+从音视频文件创建srt字幕，原理是通过funasr框架的语音识别模型，自动批量生成srt字幕
